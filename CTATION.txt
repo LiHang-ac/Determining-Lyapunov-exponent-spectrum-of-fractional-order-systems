@@ -1,0 +1,13 @@
+@article{LI2023113167,
+title = {Determining Lyapunov exponents of fractional-order systems: A general method based on memory principle},
+journal = {Chaos, Solitons & Fractals},
+volume = {168},
+pages = {113167},
+year = {2023},
+issn = {0960-0779},
+doi = {https://doi.org/10.1016/j.chaos.2023.113167},
+url = {https://www.sciencedirect.com/science/article/pii/S0960077923000681},
+author = {Hang Li and Yongjun Shen and Yanjun Han and Jinlu Dong and Jian Li},
+keywords = {Lyapunov exponent, Fractional-order systems, Memory principle, Chaos},
+abstract = {Lyapunov exponents provide quantitative evidence for determining the stability and classifying the limit set of dynamical systems. There are several well-established techniques to compute Lyapunov exponent of integer-order systems, however, these techniques failed to generalize to fractional-order systems due to the nonlocality of fractional-order derivatives. In this paper, a method for determining the Lyapunov exponent spectrum of fractional-order systems is proposed. The proposed method is rigorously derived based on the memory principle of Grünwald–Letnikov derivative so that it is generally applicable and even well compatible with integer-order systems. Three classical examples, which are the fractional-order Lorenz system, fractional-order Duffing oscillator, and 4-dimensional fractional-order Chen system, are respectively employed to demonstrate the effectiveness of the proposed method for incommensurate, nonautonomous and low effective order systems as well as hyperchaotic systems. The simulation results suggest that the proposed method is indeed superior to the existing methods in accuracy and correctness.}
+}
