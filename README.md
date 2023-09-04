@@ -9,9 +9,6 @@
 % can also be used to determine the Lyapunov exponents of integer-order systems. See the
 % corresponding published paper in Chaos, Solitons & Fractals, 2023, 168: 113167 for 
 % a detailed theoretical discussion on the algorithm.
-%
-% Author: Hang Li
-% Email: Lihang.ac@hotmail.com
 % 
 % Cite as:
 % Hang Li, Yongjun Shen, et al. Determining Lyapunov exponents of 
